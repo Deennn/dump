@@ -1,0 +1,27 @@
+.title--font {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+}
+.subtitle--font {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 40px;
+}
+.thead-gray {
+  background-color: #d9d9d9;
+}
+.icon-danger {
+  color: red;
+}
+.table-data-font {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 40px;
+}
