@@ -25,3 +25,57 @@
   font-size: 14px;
   line-height: 40px;
 }
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #898867;
+  width: 154px;
+  height: 154px;
+}
+.initials h3 {
+  color: black;
+  font-size: 4rem;
+  padding: 20px 20px;
+  text-align: center;
+}
+.title-name {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 3rem;
+}
+.title-contact {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-size: 1.3rem;
+}
+.content-column {
+  padding: 120px 0;
+  padding: 40px;
+}
+.content-card {
+  position: relative;
+  border: none;
+  margin-bottom: 20px;
+}
+.right-pen {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 1.3rem;
+}
+.banner-image {
+  background-image: url("./img/banner-image.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+.textarea {
+  min-height: 140px;
+}
